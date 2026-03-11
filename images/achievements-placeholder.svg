@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-label="Placeholder for achievements image">
+  <rect width="1200" height="700" fill="#f8f8f8"/>
+  <rect x="70" y="70" width="1060" height="560" fill="none" stroke="#91b3f7" stroke-width="8"/>
+  <text x="600" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="56" fill="#111">Achievements Image Placeholder</text>
+</svg>
